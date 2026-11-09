@@ -1,0 +1,11 @@
+# 模型常量定义
+MODEL_MANAGER = "qwen3:1.7b"
+MODEL_EXEC_ADVANCED = "qwen3:1.7b"
+MODEL_EXEC_ADVANCED_CODER = "qwen2.5-coder:1.5b"
+MODEL_EXEC_CORE = "qwen3:1.7b"
+MODEL_EXEC_QUICK_CODER = "qwen2.5-coder:1.5b"
+MODEL_EXEC_LIGHT = "qwen2.5:0.5b"
+MODEL_EXEC_CHAT = "qwen2.5:0.5b"
+MODEL_EXEC_SIMPLE = "qwen2.5:0.5b"
+MODEL_EXEC_MINIMAL_CODER = "qwen2.5:0.5b"
+MODEL_INTENT = "qwen3:0.6b"

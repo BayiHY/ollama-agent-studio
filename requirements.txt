@@ -1,0 +1,19 @@
+# 智能体工作室依赖清单
+
+# 核心依赖
+ollama
+
+# 说明：
+# - ollama：用于模型管理和调用，是项目的核心依赖
+# - 其他依赖均为Python标准库，无需额外安装
+
+# 安装方法：
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple ollama
+
+# 验证安装：
+pip show ollama
+
+# 注意事项：
+# 1. 确保Ollama服务已启动
+# 2. 确保已下载所需的模型
+# 3. Python版本要求：3.8+
